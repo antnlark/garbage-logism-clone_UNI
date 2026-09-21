@@ -1,7 +1,7 @@
 Small barebones digital logic cicuits simulator.
 
 
-Components - 
+  Components - 
 
 Input
 
@@ -13,8 +13,7 @@ Or Gate
 
 Not Gate
 
-
-Features - 
+  Features - 
 
 Grouping wired/Compound Gates
 
