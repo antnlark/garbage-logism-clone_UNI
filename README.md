@@ -15,7 +15,7 @@ Not Gate
 
   Features - 
 
-Grouping wired/Compound Gates
+Grouping wired/Compound Gates (grouped inputs cannot be toggled)
 
 Wire to and from compounds
 
